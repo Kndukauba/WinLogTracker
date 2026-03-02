@@ -1,0 +1,13 @@
+{
+  "log_name": "Security",
+  "poll_interval_seconds": 10,
+  "alert_thresholds": {
+    "failed_logins": 5
+  },
+  "event_ids": {
+    "failed_login": 4625,
+    "successful_login": 4624,
+    "account_lockout": 4740,
+    "log_cleared": 1102
+  }
+}
