@@ -17,7 +17,7 @@ The tool performs three core tasks:
 - Poll the Windows Security Log
 - Parse and classify events
 - Generate alerts when suspicious patterns are detected
-This design mimics the behavior of a simplified SIEM ingestion pipeline.
+- This design mimics the behavior of a simplified SIEM ingestion pipeline.
 
 ## Getting Started
 Prerequisites
