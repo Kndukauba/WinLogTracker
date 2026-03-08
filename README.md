@@ -43,7 +43,7 @@ Generate alerts when suspicious activity is detected
 This design mimics how basic intrusion detection systems and SIEM log collectors operate.
 
 ## Getting Started
-Prerequisites
+Prerequisites:
 
 Windows 10 / Windows 11
 
@@ -100,7 +100,3 @@ Improve event parsing
 Extend the tool to other event channels
 
 Feel free to open a pull request.
-
-Basic intrusion detection logic
-
-Real-time log monitoring patterns
