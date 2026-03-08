@@ -26,7 +26,7 @@ Prerequisites
 pip install pywin32
 
 Clone the Repository
-git clone https://github.com/yourusername/WinLogTracker.git
+git clone https://github.com/Kndukauba/WinLogTracker
 cd WinLogTracker
 
 Run the Program
